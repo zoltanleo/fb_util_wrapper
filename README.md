@@ -8,6 +8,10 @@
 
 Список изменений:
 
+v.0.0.70
+
+- введено новое свойство property HomeDirName - "домашняя папка юзера" (для win совпадает с GetAppConfigDir, для nix /home/<user>/<exec file name>)
+
 v.0.0.69
 
 - расставлены корректные TabOrder элементов на формах
