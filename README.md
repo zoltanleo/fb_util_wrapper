@@ -66,7 +66,6 @@ Select backup options/switches
 ![](img\pic_win_09.png)
 
 
-
 Select the correct server parameters, file names. Then type the correct username/password/role (of necessary) 
 
 ![](img\pic_win_10.png)
